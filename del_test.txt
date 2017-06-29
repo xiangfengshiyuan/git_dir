@@ -6,4 +6,8 @@ conflict test
 
 fast_branch_test
 
+<<<<<<< HEAD
 conflict test in master branch
+=======
+conflict test in feature1 branch
+>>>>>>> feature1
