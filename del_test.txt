@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict master branch test
+=======
+conflict test
+>>>>>>> feature1
