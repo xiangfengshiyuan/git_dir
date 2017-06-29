@@ -17,3 +17,5 @@ conflict test in feature1 branch
 
 no-fff
 >>>>>>> feature1
+
+fixed issue101
