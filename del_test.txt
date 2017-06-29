@@ -18,4 +18,8 @@ conflict test in feature1 branch
 no-fff
 >>>>>>> feature1
 
+<<<<<<< HEAD
 fixed issue101
+=======
+fixed issue101 in isussed branch
+>>>>>>> issue-101
