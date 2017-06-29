@@ -3,3 +3,5 @@ conflict master branch test
 =======
 conflict test
 >>>>>>> feature1
+
+fast_branch_test
