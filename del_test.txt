@@ -5,3 +5,5 @@ conflict test
 >>>>>>> feature1
 
 fast_branch_test
+
+conflict test in master branch
