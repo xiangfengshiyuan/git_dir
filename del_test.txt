@@ -10,3 +10,5 @@ conflict test in feature1 branch
 
 
 no-fff
+
+cooperation in feature in local dev
