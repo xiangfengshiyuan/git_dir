@@ -11,3 +11,5 @@ conflict test in master branch
 =======
 conflict test in feature1 branch
 >>>>>>> feature1
+
+fixed issue101 in isussed branch
