@@ -10,4 +10,10 @@ fast_branch_test
 conflict test in master branch
 =======
 conflict test in feature1 branch
+<<<<<<< HEAD
+>>>>>>> feature1
+=======
+
+
+no-fff
 >>>>>>> feature1
